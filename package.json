@@ -1,0 +1,23 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "description": "Mi primer proyecto en Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/William31416/Teor-a-de-Node.js.git"
+  },
+  "author": "Samuel Sotelo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/William31416/Teor-a-de-Node.js/issues"
+  },
+  "homepage": "https://github.com/William31416/Teor-a-de-Node.js#readme",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "express": "^4.19.2"
+  }
+}
